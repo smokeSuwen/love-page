@@ -16,5 +16,5 @@ new TypeIt('#talkToXHJ', {
     lifeLike: true,
     cursorSpeed: 1000,
     waitUntilVisible: true,
-    speed: 100
+    speed: 50
 }).go();
