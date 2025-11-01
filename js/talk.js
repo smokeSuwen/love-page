@@ -3,12 +3,12 @@ new TypeIt("#tqyxhj", {
         cursorSpeed: 1000,
         speed: 100
     })
-    .type("尹健良 && 熊梦楠")
+    .type("孙茂峰 && 赵冬夏")
     .pause(2000)
     .delete(null, {
         delay: 500
     })
-    .type("此网页送给最可爱最漂亮的女孩")
+    .type("送给最可爱最漂亮的女孩")
     .pause(3000)
     .go();
 
